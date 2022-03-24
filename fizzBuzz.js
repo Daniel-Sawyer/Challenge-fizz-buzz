@@ -1,7 +1,7 @@
 // Write your solution below this line:
 let num = 1
 
-while(num < 50){
+while(num <= 50){
     if( num % 3 === 0 && num % 5 === 0){
         console.log(`Fizzbuzz`)
     } 
